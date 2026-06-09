@@ -56,7 +56,7 @@ Users can filter data by:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview]("C:\Users\SOFT ZONE\OneDrive\المستندات\DATA ANALISIS\portfolio\HH.png")
+![Dashboard Preview]("HH.png")
 
 ## 👩‍💻 Author
 
