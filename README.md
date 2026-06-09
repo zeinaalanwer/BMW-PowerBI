@@ -56,7 +56,7 @@ Users can filter data by:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview]("HH.png")
+![Dashboard Preview]("https://github.com/zeinaalanwer/BMW-PowerBI/blob/4bb85ac832d2ba52ebedf140c790c57bfce70a24/HH.png")
 
 ## 👩‍💻 Author
 
